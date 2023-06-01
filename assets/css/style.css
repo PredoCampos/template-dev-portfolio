@@ -1,0 +1,88 @@
+.homebg {
+    background-image: url(https://4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/modules/baixou/shell/whitelabels/lay//27-background_topo-1576178262.jpg);
+}
+
+.rodape {
+    background-image: url(https://4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/modules/baixou/shell/whitelabels/lay//27-background_final-1573664045.jpg);
+}
+
+.fp-controlArrow.fp-prev {
+    background-image: url(https://4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/modules/baixou/shell/whitelabels/lay/plugin/arrow-left.png);
+}
+
+.fp-controlArrow.fp-next {
+    background-image: url(https://4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/modules/baixou/shell/whitelabels/lay/plugin/arrow-right.png);
+}
+
+.diferenciais li h3 {
+    color: #ffffff;
+}
+
+.diferenciais li span, .diferenciais li p {
+    color: #ffffff;
+}
+
+#pluginInstalado h2, #pluginInstalado form label {
+    color: #7439f3;
+}
+
+.btn-header {
+    background-color: #1f8f15;
+    border-color: #18800e;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-header:hover {
+    background-color: #18800e;
+    border-color: #18800e;
+}
+
+.btn-primary:hover, .menu-funcionalidades a:hover img {
+    background-color: #ffa200;
+    border-color: #ffa200;
+}
+
+.fp-controlArrow {
+    background-color: #ffffff !important;
+}
+
+.fp-controlArrow:hover {
+    background-color: #ffffff !important;
+}
+
+#fp-nav ul li a span {
+    background-color: #a8e0d2 !important;
+}
+
+#fp-nav ul li a.active span {
+    background-color: #3feec5 !important;
+}
+
+#section1 {
+    background: -webkit-gradient(linear, top left, bottom left, from(#753af3), to(#5d59da));
+    background: -webkit-linear-gradient(#753af3, #5d59da);
+    background: linear-gradient(#753af3,#5d59da);
+}
+
+#section2 {
+    background: -webkit-gradient(linear, top left, bottom left, from(#5d59da), to(#4679c1));
+    background: -webkit-linear-gradient(#5d59da, #4679c1);
+    background: linear-gradient(#5d59da,#4679c1);
+}
+
+#section3 {
+    background-color: -webkit-gradient(linear, top left, bottom left, from(#4679c1), to(#2f98a8));
+    background: -webkit-linear-gradient(#4679c1, #2f98a8);
+    background: linear-gradient(#4679c1,#2f98a8);
+}
+
+#section4 {
+    background: -webkit-gradient(linear, top left, bottom left, from(#2f98a8), to(#18b890));
+    background: -webkit-linear-gradient(#2f98a8, #18b890);
+    background: linear-gradient(#2f98a8,#18b890);
+}
+
+#section5 {
+    background-color: #18b890;
+}
